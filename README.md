@@ -23,3 +23,4 @@ Rode o script:
 <pre>
  <span style="font-weight: 400">sudo ./Pos_install_SO.sh</span>
 </pre>
+ Agora basta aguardar a instalação.
