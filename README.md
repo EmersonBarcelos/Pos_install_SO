@@ -21,5 +21,5 @@ de a permissão para o arquivo:
 Rode o script:
 
 <pre>
- <span style="font-weight: 400">sudo ./Pos_install_SO</span>
+ <span style="font-weight: 400">sudo ./Pos_install_SO.sh</span>
 </pre>
