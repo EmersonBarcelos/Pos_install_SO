@@ -33,7 +33,7 @@ sudo dpkg -i *.deb &&
 
 ## Instalando Flatpak e adicionado repositório Flathub ##
 
-sudo apt install flatpak &&
+sudo apt install flatpak -y &&
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo && 
 
