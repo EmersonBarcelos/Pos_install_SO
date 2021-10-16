@@ -39,6 +39,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 ## Instalando programas em flatpak ##
 
+flatpak install flathub com.transissionbt.Transmission -y &&
 flatpak install flathub us.zoom.Zoom -y &&
 flatpak install flathub org.gimp.GIMP -y &&
 
