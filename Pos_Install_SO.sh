@@ -45,7 +45,7 @@ flatpak install flathub org.gimp.GIMP -y &&
 
 ## Instalando Snap ##
 
-sudo apt install snapd &&
+sudo apt install snapd -y &&
 
 ## Instalando programas em snap ## 
 
