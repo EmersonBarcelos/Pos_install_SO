@@ -51,12 +51,7 @@ sudo apt install snapd -y &&
 
 sudo snap install code --classic && 
 sudo snap install mysql-workbench-community &&
-
-# Instalando Atom ##
-
-sudo add-apt-repository ppa:webupd8team/atom &&
-sudo apt-get update &&
-sudo apt-get install atom &&
+sudo snap install atom --classic &&
 
 ## Instalando o Wine ## 
 
