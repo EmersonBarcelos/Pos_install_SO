@@ -11,7 +11,7 @@ sudo apt update &&
 
 ## Instalando pacotes e programas do repositório deb do ubuntu ##
 
-sudo apt install python3 python3-pip wine nautilus-dropbox docker docker-compose git build-essential libssl-dev flatpak gnome-software-plugin-flatpak winff -y &&
+sudo apt install python3 python3-pip docker docker-compose git build-essential libssl-dev flatpak gnome-software-plugin-flatpak winff -y &&
 
 
 ## Download de programas externos ##
