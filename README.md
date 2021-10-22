@@ -15,12 +15,12 @@ Abra o diretório que o download do repositório foi feito:
 de a permissão para o arquivo:
 
 <pre>
- <span style="font-weight: 400">chmod +x ./Pos_install_SO.sh</span>
+ <span style="font-weight: 400">chmod +x ./Pos_Install_SO.sh</span>
 </pre>
 
 Rode o script:
 
 <pre>
- <span style="font-weight: 400">sudo ./Pos_install_SO.sh</span>
+ <span style="font-weight: 400">sudo ./Pos_Install_SO.sh</span>
 </pre>
  Agora basta aguardar a instalação.
