@@ -9,7 +9,7 @@ Clone o repositório:
 
 Abra o diretório que o download do repositório foi feito:
 <pre>
- <span style="font-weight: 400">cd Pos_install_SO/</span>
+ <span style="font-weight: 400">cd Pos_Install_SO/</span>
 </pre>
 
 de a permissão para o arquivo:
