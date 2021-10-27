@@ -4,7 +4,7 @@ Script para automatizar instalação de programas que utilizo no linux após a i
 
 Clone o repositório:
 <pre>
- <span style="font-weight: 400">git clone https://github.com/EmersonHBP/Pos_install_SO.git</span>
+ <span style="font-weight: 400">git clone https://github.com/EmersonBarcelos/Pos_install_SO.git</span>
 </pre>
 
 Abra o diretório que o download do repositório foi feito:
